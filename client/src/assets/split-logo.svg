@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" fill="none">
+  <defs>
+    <linearGradient id="split-gradient" x1="15" y1="91" x2="111" y2="28" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ec2855" />
+      <stop offset="1" stop-color="#f49b13" />
+    </linearGradient>
+  </defs>
+  <path d="M98.2 19.8A55 55 0 0 0 12.5 76M22.6 96.3A55 55 0 0 0 112.5 49M109.1 34.1A55 55 0 0 0 104 25" stroke="url(#split-gradient)" stroke-width="9" stroke-linecap="butt" />
+  <path d="M77.5 41.5c-4.3-4.1-9.2-6.2-14.8-6.2-8.4 0-14.5 4.5-14.5 11.1 0 5.4 3.7 8.8 13.8 12.4l6 2.1c13.1 4.6 19.4 11 19.4 20 0 11.4-9.7 19.2-23.8 19.2-9.2 0-17.1-3.1-23.2-9.1l8.1-8.6c4.2 4.5 9.2 6.8 15 6.8 7.6 0 12.6-3.4 12.6-8.6 0-4.5-3.5-7.5-12.5-10.8l-6.4-2.3C43.5 62.4 37 55.8 37 46.3c0-12.3 10.4-21 25.6-21 8.6 0 16.3 2.7 22.4 8L77.5 41.5Z" fill="url(#split-gradient)" />
+</svg>

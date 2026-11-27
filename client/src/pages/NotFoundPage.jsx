@@ -1,0 +1,2 @@
+import { Link } from 'react-router-dom'
+export default function NotFoundPage() { return <div className="grid min-h-[60vh] place-items-center text-center"><div><p className="text-sm font-bold text-brand-600">404 · Page not found</p><h1 className="mt-3 text-3xl font-bold">We couldn’t find that page</h1><p className="mt-2 text-sm text-muted">The link may be old or the page may have moved.</p><Link className="mt-6 inline-flex rounded-xl bg-brand-600 px-5 py-3 text-sm font-semibold text-white" to="/">Back to overview</Link></div></div> }
